@@ -1,0 +1,1 @@
+Erstelle ein gut formatiertes PDF aus der content.md-Datei. Nutze klare Absätze, Zwischenüberschriften und Titel. Verwende saubere Typografie und maximal zwei Schriftgrößen.

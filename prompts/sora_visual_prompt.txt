@@ -1,0 +1,1 @@
+Generate a cinematic video prompt for Sora based on the product content. Keep it calm, symbolic, and loopable. No text. No narration.
